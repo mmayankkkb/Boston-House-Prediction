@@ -2,6 +2,12 @@
 The goal of this project is to create a Machine Learning model that is able to accurately estimate the price of the house given the features
 
 
+### Software And Tools Requirements
+
+1. [Github Account](https://github.com)
+2. [HerokuAccount](https://heroku.com)
+3. [VSCodeIDE](https://code.visualstudio.com/)
+4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 
 
